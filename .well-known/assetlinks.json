@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jio.inlocate",
+      "sha256_cert_fingerprints": [
+        "B6:82:73:21:4F:56:FE:0C:63:FF:D9:F7:F8:C6:0E:1C:D4:56:89:7E:6E:DE:F9:74:CE:0B:75:50:33:37:62:CB"
+      ]
+    }
+  }
+]
