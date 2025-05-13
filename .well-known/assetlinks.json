@@ -7,7 +7,10 @@
       "namespace": "android_app",
       "package_name": "com.jio.inlocate",
       "sha256_cert_fingerprints": [
-        "B6:82:73:21:4F:56:FE:0C:63:FF:D9:F7:F8:C6:0E:1C:D4:56:89:7E:6E:DE:F9:74:CE:0B:75:50:33:37:62:CB"
+        "B6:82:73:21:4F:56:FE:0C:63:FF:D9:F7:F8:C6:0E:1C:D4:56:89:7E:6E:DE:F9:74:CE:0B:75:50:33:37:62:CB",
+        "7D:69:EC:EA:AC:71:AC:7C:3C:05:91:38:8E:02:73:C1:64:C2:32:D1:7B:18:76:12:68:77:13:02:3D:A8:C9:8E",
+		    "60:E5:14:44:6D:19:12:C4:5B:FE:FF:F6:11:E6:9D:EA:E4:D3:D5:94:1A:AB:7E:E3:86:D8:39:3E:40:3E:BE:7B",
+		    "FF:B8:E4:AB:27:16:CC:A4:BD:82:E3:7E:E0:9C:93:37:DD:B8:30:8B:90:08:28:16:05:6F:61:03:16:CD:D1:AF"
       ]
     }
   }
