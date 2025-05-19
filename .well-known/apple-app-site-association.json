@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "52YT2Z7WR5.com.radisys.jioxplorer",
-        "paths": [ "/deeplink/*" ]
+        "paths": [ "/campusandbuilding*", "/campusandbuilding" ]
       },
      {
         "appID": "52YT2Z7WR5.com.jio.aiimsexplore",
-        "paths": [ "/deeplink/*" ]
+        "paths": [ "/campusandbuilding*", "/campusandbuilding" ]
       }
     ]
   }
