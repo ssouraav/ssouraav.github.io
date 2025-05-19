@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "52YT2Z7WR5.com.radisys.jioxplorer",
+        "paths": [ "/campusandbuilding*", "/campusandbuilding" ]
+      },
+     {
+        "appID": "52YT2Z7WR5.com.jio.aiimsexplore",
+        "paths": [ "/campusandbuilding*", "/campusandbuilding" ]
+      }
+    ]
+  }
+}
